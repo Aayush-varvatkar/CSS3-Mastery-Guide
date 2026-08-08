@@ -10,19 +10,6 @@
 
 ---
 
-## 💡 Recommended Repository Names
-
-If you want to rename `CSS_Concept` on GitHub to give it a more modern and professional title:
-
-| Name Suggestion | Why it Works |
-| :--- | :--- |
-| **`CSS3-Mastery-Guide`** *(Recommended)* | Clean, modern title highlighting standard and advanced CSS3 concepts. |
-| **`Modern-CSS-Grid-Flexbox-Lab`** | Highlights key layout engines (CSS Grid & Flexbox) and animations. |
-| **`CSS-Foundations-To-Advanced`** | Clear, educational, and ideal for portfolio showcase. |
-| **`Styling-Craft-Vault`** | Aesthetic and creative title for web styling techniques. |
-
----
-
 ## 📌 Repository Overview
 
 This repository provides working HTML/CSS code samples for every essential CSS concept, ranging from basic box styling to advanced multi-dimensional CSS Grid layouts and 2D/3D animations.
